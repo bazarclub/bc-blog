@@ -12,3 +12,8 @@
   name = "About"
   url = "about/"
   weight = 20
+  
+[[main]]
+  name = "Slider"
+  url = "slider/"
+  weight = 20
