@@ -15,5 +15,5 @@
   
 [[main]]
   name = "Slider"
-  url = "slider/"
+  url = "#slider"
   weight = 20
